@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-<p style="display:block; margin:6px 0;">
+<p style="display:block; margin:6px 0 padding:5px;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" style="display:block;"/>
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="Redux" style="display:block;"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" style="display:block;"/>
@@ -19,7 +19,7 @@
 </p>
 
 **Backend & Database:**  
-<p style="display:block; margin:6px 0;">
+<p style="display:block; margin:6px 0 padding:5px;">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" style="display:block;"/>
   <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express" alt="Express" style="display:block;"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" style="display:block;"/>
