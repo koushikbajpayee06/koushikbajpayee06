@@ -1,96 +1,104 @@
-<div align="center">
+# 👋 Hi, I'm Koushik!
 
-# 👋 Hi, I'm <span style="color:#38BDF8;">Koushik Bajpayee</span>
-
-### 🚀 MERN Stack Developer | React & Next.js Enthusiast  
-Building reliable, scalable full-stack applications with a focus on clean UI & strong backend.
-
-</div>
+🚀 MERN Stack Developer | React & Next.js Enthusiast | Backend Explorer  
+💻 Passionate about building scalable full-stack applications using **React, Node.js, Express, and MongoDB**.  
+🌱 Currently learning **System Design, Microservices & AWS Deployment**.  
 
 ---
 
-## 🎨 Tech Stack
+## 🛠️ Tech Stack  
 
-<div align="center">
+**Frontend:**  
+<p style="display:flex; flex-wrap:wrap; gap:8px;">
 
-### 🖥️ Frontend  
-<div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
 
-### 🔧 Backend & DB  
-<div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</div>
+</p>
 
-### 🛠 Tools & DevOps  
-<div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB%20Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</div>
+**Backend & Database:**  
+<p style="display:flex; flex-wrap:wrap; gap:8px;">
 
-</div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff"/>
 
----
+</p>
 
-## 🚀 Featured Projects
+**Tools & DevOps:**  
+<p style="display:flex; flex-wrap:wrap; gap:8px;">
 
-### 🔥 **DevTinder**  
-A developer networking platform (Tinder-style) with MERN, JWT Auth & AWS deployment.
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff"/>
 
-💡 **Highlights:**  
-- Microservice-friendly Node backend  
-- JWT + bcrypt authentication  
-- React frontend with reusable components  
-- Deployed on AWS EC2 + Nginx + PM2  
-- MongoDB Atlas database  
-
-📌 *Repo coming soon*
+</p>
 
 ---
 
-### 🩺 **Prescripto – Doctor Appointment App**  
-Doctor listing, appointment booking, admin panel & Cloudinary uploads.
+## 🚀 Featured Projects  
 
-**Tech:** React · Tailwind · Express · MongoDB · Multer · Cloudinary  
-📌 *Backend & frontend in development*
+### 🔥 DevTinder (MERN + Microservices + AWS Deployment)  
+A professional networking app for developers — inspired by swipe-based UI.  
+- JWT Authentication & secure middleware  
+- Modular Express backend  
+- React UI with reusable components  
+- Database: MongoDB Atlas  
+- Deployment: AWS EC2 + Nginx + PM2  
+
+📌 Repo Coming Soon  
 
 ---
 
-### 🍔 **FoodApp – React + Redux**  
-Fully responsive Swiggy-like interface with filtering & testing.
+### 🩺 Prescripto – Doctor Appointment System (MERN + Cloudinary)  
+Doctor management + patient appointment booking.  
+- Doctor image upload (Multer + Cloudinary)  
+- Admin panel  
+- Tailwind + DaisyUI frontend  
+- MongoDB Atlas backend  
 
-🔗 **Live Demo:** https://demo-day1.netlify.app  
-📂 **Repo:** https://github.com/koushikbajpayee06/FoodApp  
+📌 Repo Coming Soon  
+
+---
+
+### 🍔 FoodApp – Food Ordering Website (React + Redux Toolkit)  
+A Swiggy-style UI with filtering & restaurant components.  
+🔗 **Live Demo**: https://demo-day1.netlify.app  
+📂 **Repo**: https://github.com/koushikbajpayee06/FoodApp  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" height="160"/>
-</div>
+<p style="display:flex; flex-wrap:wrap; gap:16px;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" height="160"/>
+
+</p>
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect with Me  
 
-<div align="center">
+<p style="display:flex; flex-wrap:wrap; gap:10px;">
 
 <a href="https://www.linkedin.com/in/koushikbajpayee07/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -105,15 +113,11 @@ Fully responsive Swiggy-like interface with filtering & testing.
 </a>
 
 <a href="https://ephemeral-bienenstitch-ce9f73.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-✨ *“Code every day. Deploy every week. Grow every month.”* ✨
-
-</div>
+✨ *"Code, Learn, Deploy, Repeat."* ✨
