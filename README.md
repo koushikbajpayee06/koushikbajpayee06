@@ -1,94 +1,75 @@
-# 👋 Hi, I'm Koushik!
+👋 Hi, I'm Koushik Bajpayee!
 
-🚀 MERN Stack Developer | React Enthusiast | Backend Explorer  
-💻 Passionate about building scalable full-stack web applications using **React, Node.js, Express, and MongoDB**.  
-🌱 Currently learning **System Design & Advanced Backend Patterns**.  
+🚀 Full-Stack MERN Developer | React & Next.js Enthusiast | Backend & DevOps Learner
+💡 Passionate about building scalable web apps, writing clean code, and deploying real products on AWS, Nginx, Node, and MongoDB Atlas.
+📍 Based in Kolkata and actively contributing to full-stack projects daily.
 
----
+🛠️ Tech Stack
+Frontend
 
-## 🛠️ Tech Stack  
+React · Next.js · Redux Toolkit · RTK Query · React Router · TailwindCSS · DaisyUI · Bootstrap · JavaScript (ES6+) · HTML · CSS
 
-**Frontend:**  
-<p style="display:block; margin:6px 0;">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-</p>
+Backend & Database
 
-**Backend & Database:**  
-<p style="display:block; margin:6px 0;">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-</p>
+Node.js · Express.js · MongoDB · Mongoose · Cloudinary · Multer · JWT Auth · REST APIs · WebSockets (Socket.io)
 
-**Tools & Others:**  
-<p style="display:block; margin:6px 0;">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff&style=for-the-badge" style="display:block; border-radius:12px;"/>
-</p>
+Tools & DevOps
 
----
+Git · GitHub · Linux · Nginx · PM2 · AWS EC2 · MongoDB Atlas · Vercel · Netlify · Postman · VS Code
 
-## 🚀 Featured Projects  
+🚀 Featured Projects
+🔥 DevTinder (MERN + Microservices + JWT + AWS Deployment)
 
-### 🍔 Food Ordering Website (React + Mock Data)  
-React-based UI like **Swiggy/Zomato**  
-- Filter restaurants, interactive cards, config-driven UI  
-🔗 [Live Demo](https://demo-day1.netlify.app) | 📂 [Repo](https://github.com/demo/food-ordering-app)  
+A professional networking app for developers — inspired by Tinder swipe logic.
+Features:
 
----
+User signup/login with JWT
 
-### 🛒 MERN E-Commerce Platform  
-Full-stack project with product listing, cart, and payment integration  
-- Authentication & role-based access  
-🔗 [Live Demo](https://demo-ecommerce.netlify.app) | 📂 [Repo](https://github.com/demo/ecommerce-app)  
+Developer profile cards
 
----
+Secure authentication middleware
 
-### 💬 Chat Application (MERN + Socket.io)  
-Real-time chat with groups & private messaging  
-- WebSocket-powered backend  
-🔗 [Live Demo](https://demo-chat.netlify.app) | 📂 [Repo](https://github.com/demo/chat-app)  
+Modular backend architecture
 
----
+AWS Ubuntu + Nginx deployment
+Status: In active development
+📂 Repo coming soon
 
-## 📊 GitHub Stats  
+🩺 Prescripto – Doctor Appointment App (MERN + Cloudinary + Admin Panel)
 
-<p style="display:block; margin:6px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" alt="Koushik's GitHub stats" style="display:block; max-width:100%; border-radius:12px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" alt="Top Langs" style="display:block; max-width:100%; border-radius:12px;"/>
-</p>
+A complete doctor-patient appointment management system.
+Features:
 
----
+Doctor creation (with image upload using Multer + Cloudinary)
 
-## 🌍 Connect with Me  
+MongoDB Atlas integration
 
-<p style="display:block; margin:6px 0;">
-  <a href="https://www.linkedin.com/in/koushikbajpayee07/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&style=for-the-badge" alt="LinkedIn" style="display:block; border-radius:12px;"/>
-  </a>
-  <a href="https://github.com/koushikbajpayee06" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&style=for-the-badge" alt="GitHub" style="display:block; border-radius:12px;"/>
-  </a>
-  <a href="https://ephemeral-bienenstitch-ce9f73.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&style=for-the-badge" alt="Portfolio" style="display:block; border-radius:12px;"/>
-  </a>
-  <a href="mailto:kbajpayee06@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff&style=for-the-badge" alt="Email" style="display:block; border-radius:12px;"/>
-  </a>
-</p>
+Protected API routes
 
----
+Dynamic doctor listing & specializations
 
-✨ *"Code, Learn, Build, Repeat."* ✨
+Responsive React UI with Tailwind
+📂 Public repo coming soon
+
+🍔 FoodApp – Food Ordering Platform (React + Redux Toolkit)
+
+A fully responsive Swiggy-style UI.
+Features:
+
+Restaurant listing
+
+Filtering + search
+
+Redux Toolkit for state management
+
+Jest + React Testing Library integration
+🔗 Live: https://demo-day1.netlify.app
+
+📂 Repo: https://github.com/koushikbajpayee06/FoodApp
+
+📊 GitHub Stats
+<p> <img src="https://github-readme-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" /> </p>
+🌍 Connect With Me
+<p> <a href="https://www.linkedin.com/in/koushikbajpayee07/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/koushikbajpayee06" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /> </a> <a href="mailto:kbajpayee06@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" /> </a> <a href="https://ephemeral-bienenstitch-ce9f73.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=firefox" /> </a> </p>
+
+✨ "Code every day. Deploy every week. Improve every month." ✨
