@@ -80,17 +80,18 @@ Git • GitHub • Postman • VS Code • MongoDB Compass • phpMyAdmin
 
 ---
 
-
+ 
 ## 📊 GitHub Overview  
 <div align="center">
 
 <img height="160" 
-     src="https://github-readme-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=default&hide_border=false" />
+     src="https://koushik-github-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=default" />
 
 <img height="160" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=default&hide_border=false" />
+     src="https://koushik-github-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=default" />
 
 </div>
+
 
 
 ---
