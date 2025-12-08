@@ -1,109 +1,100 @@
-<!-- ============================ -->
-<!--     FULL CYBERPUNK UI        -->
-<!-- ============================ -->
-
 <div align="center">
 
-<!-- CYBERPUNK ASCII TITLE -->
+# ⚡ Koushik Bajpayee  
+### MERN Stack Developer | React & Next.js | Backend Engineer  
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F2FF&center=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+Specialist;Node.js+%7C+Express+Backend;MongoDB+%7C+AWS+Learner" />
 
-<!-- GLITCH ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F2FF&center=true&vCenter=true&width=700&lines=Koushik+Bajpayee;MERN+Stack+Developer;React+%7C+Next.js+%7C+Backend+Engineer;Cyberpunk+Full+Stack+Warrior;AWS+%7C+Nginx+%7C+PM2+%7C+Cloud" />
+---
+
+</div>
+
+## 🧩 About Me  
+I’m a MERN Stack Developer with experience building scalable full-stack applications, deploying real projects on AWS, and working with modern JavaScript frameworks. I enjoy solving backend performance challenges, designing clean APIs, and creating fast, user-friendly UIs.
+
+Currently expanding my skills in **System Design, AWS, and microservices** to build production-grade applications.  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** React.js, Next.js, Redux Toolkit, React Router, Tailwind, Bootstrap, HTML5, CSS3  
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth, Laravel  
+**Databases:** MongoDB (Mongoose), MySQL, PostgreSQL  
+**DevOps / Cloud:** AWS EC2, S3, PM2, Nginx, Linux (Ubuntu)  
+**Tools:** Git, GitHub, VS Code, Postman, MongoDB Compass, phpMyAdmin  
+
+---
+
+## 💼 Experience  
+
+### **Software Developer Intern — Reddensoft Infotech (2025–Present)**  
+- Built a **multi-role permission system** (Admin/Author/Student) improving workflow efficiency by **30%**.  
+- Developed secure modules for user management, book approvals, and category handling using Laravel + MySQL.  
+- Implemented middleware-based route protection and backend validation for secure access controls.  
+- Optimized queries and improved admin panel performance by **20%**.  
+
+### **RF Engineer — Decon Telecom Solutions (2017–2019)**  
+- Improved network signal quality by **12%** through drive test analytics and cluster optimization.  
+- Strengthened analytical and documentation skills, supporting my backend debugging abilities today.  
+
+---
+
+## 🚀 Projects  
+
+### **DevTinder — Microservice Developer Networking Platform**  
+- Designed a microservice-based MERN system with separate frontend + backend deployments.  
+- Improved backend performance by **18%** using MongoDB indexing and optimized query paths.  
+- Solved CORS & cookie issues using **custom Nginx reverse proxy** with secure cookie flags.  
+- Implemented scalable features: JWT auth, connection requests, and profile management APIs.
+
+---
+
+### **Prescripto — Doctor Appointment App (MERN)**  
+- Built role-based modules (User / Doctor / Admin) with protected APIs and secure JWT routes.  
+- Implemented **real-time slot locking** to prevent double booking (100% accuracy).  
+- Added advanced filters improving doctor discoverability by **60%**.
+
+---
+
+### **FoodApp — React + Redux Toolkit + Jest**  
+- Achieved **12% faster initial load** using lazy loading + Shimmer UI.  
+- Reduced re-renders by **35%** via memoization & custom hooks.  
+- Reached **85%+ test coverage** for key components using Jest + RTL.  
+🔗 Live Demo: https://demo-day1.netlify.app  
+📂 Repo: https://github.com/koushikbajpayee06/FoodApp  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-ashen-kappa.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats-ashen-kappa.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="600"/>
-</p>
-
----
-
-# ⚡ **SYSTEM OVERVIEW — PROFILE MATRIX**
-
+## 🌐 Connect with Me  
 <div align="center">
 
-| 🔧 Module | ⚡ Status |
-|----------|-----------|
-| **Frontend Core** | React ⚛️ • Next.js ⚡ • Redux Toolkit |
-| **Backend Engine** | Node.js ⚙️ • Express 🚀 • JWT 🔐 |
-| **Database Layer** | MongoDB 🍃 • Mongoose 🧬 |
-| **Infra Ops** | AWS EC2 ☁️ • Nginx 🔀 • PM2 ♻️ |
-| **Cloud Media** | Cloudinary ☁️ |
-| **Styling System** | Tailwind 🌪 • DaisyUI 🌸 |
+<a href="https://www.linkedin.com/in/koushikbajpayee07/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/koushikbajpayee06">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:kbajpayee06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-# 🌐 **NEON TECH GRID**
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-00f2ff?style=for-the-badge&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/Next.js-ff00aa?style=for-the-badge&logo=next.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Node.js-00ff99?style=for-the-badge&logo=node.js&logoColor=000"/>
-<img src="https://img.shields.io/badge/Express-ffdd00?style=for-the-badge&logo=express&logoColor=000"/>
-<img src="https://img.shields.io/badge/MongoDB-00ff88?style=for-the-badge&logo=mongodb&logoColor=000"/>
-<img src="https://img.shields.io/badge/TailwindCSS-00d9ff?style=for-the-badge&logo=tailwind-css&logoColor=000"/>
-<img src="https://img.shields.io/badge/AWS_EC2-ff9900?style=for-the-badge&logo=amazonaws&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Nginx-00c58e?style=for-the-badge&logo=nginx&logoColor=fff"/>
-<img src="https://img.shields.io/badge/PM2-4A148C?style=for-the-badge&logo=pm2&logoColor=fff"/>
-</p>
-
----
-
-# 🔥 **CYBERPUNK PROJECT TERMINAL**
-
-## 🔱 DevTinder — *MERN + Microservices + AWS*
-
-📌 Repo Coming Soon
-
----
-
-## 🩺 Prescripto — *Doctor Appointment System*
-
-📌 Repo Coming Soon
-
----
-
-## 🍔 FoodApp — *Swiggy Clone UI (React + Redux Toolkit)*
-
-
-🔗 **Live Demo:** https://demo-day1.netlify.app  
-📂 **Repo:** https://github.com/koushikbajpayee06/FoodApp  
-
----
-
-# 🎛 **NEON STATUS PANEL**
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-ashen-kappa.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats-ashen-kappa.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img height="200" src="https://streak-stats.demolab.com?user=koushikbajpayee06&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🛰️ **CONTACT SIGNALS**
-
-<div align="center">
-<a href="https://www.linkedin.com/in/koushikbajpayee07/"><img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/koushikbajpayee06"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:kbajpayee06@gmail.com"><img src="https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://ephemeral-bienenstitch-ce9f73.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00FFA5?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </div>
 
 ---
 
 <div align="center">
 
-## ⚡ *"The Future Belongs to Those Who Code It."*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="600"/>
+### ⭐ *“Consistency beats talent. Build every day.”*
 
 </div>
