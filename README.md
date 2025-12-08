@@ -1,20 +1,33 @@
-<h1 align="center">
-  <span style="color:#00f2ff;">⚡ Koushik Bajpayee</span><br/>
-  <span style="color:#ff00aa;">MERN Stack Developer</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+Specialist;Building+Scalable+Systems;Backend+Engineer+%7C+AWS+Learner" />
-</p>
+<img src="https://github.com/koushikbajpayee06.png" width="140" style="border-radius:50%; border:4px solid #4F46E5"/>
+
+# 👨‍💻 **Koushik Bajpayee**
+### MERN Stack Developer • React • Next.js • AWS  
+
+🚀 Passionate about building modern full-stack apps  
+🧠 Learning System Design & Microservices  
+🌎 Based in India  
+
+</div>
 
 ---
 
-## 🧠 Skills (Glowing Badges)
+## 🧰 **Tech Toolbox**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-00f2ff?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-ff00aa?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-00ff99?style=for-the-badge&logo=node.js&logoColor=black"/>
-</p>
+| Frontend | Backend | DevOps |
+|---------|---------|--------|
+| React | Node.js | AWS EC2 |
+| Next.js | Express | Nginx |
+| Redux Toolkit | MongoDB | PM2 |
+| Tailwind | Mongoose | Git/GitHub |
+
+---
+
+## 📌 Featured Projects (Card Style)
+
+### 🎯 **DevTinder**
+> Developer networking app — MERN + Microservices + AWS  
+🔹 JWT Auth • 🔹 Modular Backend • 🔹 EC2 Deployment
 
 ---
