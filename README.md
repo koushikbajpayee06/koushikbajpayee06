@@ -1,105 +1,115 @@
 <div align="center">
 
-# 👋 Hey, I'm **Koushik Bajpayee**
-### MERN Stack Developer ⚡ Backend Engineer ⚡ React + Next.js Enthusiast  
+<h1 style="color:#00E5FF;">👋 Hey, I'm <strong>Koushik Bajpayee</strong></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=500&size=22&pause=1200&color=00C4FF&lines=I+build+things+for+the+web.;I+love+clean+code+and+scalable+systems.;Learning+AWS+%7C+System+Design+%7C+DevOps;" />
+<h3 style="color:#9AEFFF;">MERN Stack Developer • React & Next.js • Backend Engineer</h3>
 
-</div>
-
----
-
-## 🎯 **What I Do**
-I turn ideas into **fast**, **scalable**, and **production-ready** apps.  
-I enjoy writing minimal, readable code and deploying full-stack apps on cloud.
-
-I code almost **every day** — improving a little bit with every commit.
-
----
-
-# 🚀 **Tech Stack I Love Working With**
-
-<div align="center">
-
-### 💻 **Frontend**
-`React` • `Next.js` • `Redux Toolkit` • `Tailwind CSS` • `Bootstrap`
-
-### 🛠️ **Backend**
-`Node.js` • `Express.js` • `REST APIs` • `JWT Auth` • `Laravel`
-
-### 🗄️ **Databases**
-`MongoDB` • `Mongoose` • `MySQL` • `PostgreSQL`
-
-### ☁️ **Cloud / DevOps**
-`AWS EC2` • `AWS S3` • `PM2` • `Nginx` • `Linux (Ubuntu)`
-
-### 🧰 **Tools**
-`Git` • `GitHub` • `Postman` • `VS Code`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00E5FF&center=true&width=520&lines=MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+Backend;MongoDB+%7C+AWS+Learner" />
 
 </div>
 
 ---
 
-# 🧪 **Highlighted Projects**
+# 🧩 About Me  
+I love building **fast**, **scalable**, and **dark-themed** web apps 😎  
+Backend + System Design + Cloud = My playground.
 
-### 🔥 **DevTinder — Developer Networking Platform (MERN)**
-A full-stack app for making dev connections.  
-✔ Smart MongoDB indexes → **18% faster backend**  
-✔ Cookie-based auth + refresh tokens  
-✔ Proper microservice-style separation  
-
----
-
-### 🏥 **Prescripto — Doctor Booking System**
-✔ User / Doctor / Admin roles  
-✔ Real-time slot-locking (no double booking)  
-✔ Profile + filters + cloud storage  
+- 🔥 Currently learning **AWS + DevOps + System Design**  
+- ⚡ Daily habit: *Write code. Fix bugs. Ship features.*  
+- 🖤 Dark mode lover  
 
 ---
 
-### 🍔 **FoodApp — React + Redux Toolkit**
-✔ Swiggy-style UI  
-✔ Shimmer loading + lazy routes  
-✔ 85% test coverage (Jest + RTL)  
-🔗 Live Demo → https://demo-day1.netlify.app  
+# 🛠️ Tech Stack (Black Theme Highlighted Tags)
 
----
-
-# 🌈 **Creative Skill Tags (Bootstrap Style)**  
-*(These look aesthetic as hell on GitHub)*  
-
+## 🎨 Frontend
 <p>
-  <span style="background:#0d6efd;color:white;padding:6px 12px;border-radius:20px;margin:3px;">React</span>
-  <span style="background:#6f42c1;color:white;padding:6px 12px;border-radius:20px;margin:3px;">Next.js</span>
-  <span style="background:#198754;color:white;padding:6px 12px;border-radius:20px;margin:3px;">Node.js</span>
-  <span style="background:#0dcaf0;color:white;padding:6px 12px;border-radius:20px;margin:3px;">Tailwind CSS</span>
-  <span style="background:#6610f2;color:white;padding:6px 12px;border-radius:20px;margin:3px;">Redux Toolkit</span>
-  <span style="background:#ff9900;color:white;padding:6px 12px;border-radius:20px;margin:3px;">AWS</span>
-  <span style="background:#009639;color:white;padding:6px 12px;border-radius:20px;margin:3px;">Nginx</span>
-  <span style="background:#e95420;color:white;padding:6px 12px;border-radius:20px;margin:3px;">Linux</span>
+  <span style="background:#111;color:#00E5FF;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E5FF;">React</span>
+  <span style="background:#111;color:#9b6cff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #9b6cff;">Next.js</span>
+  <span style="background:#111;color:#00FF88;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00FF88;">Redux Toolkit</span>
+  <span style="background:#111;color:#0dcaf0;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #0dcaf0;">Tailwind CSS</span>
+  <span style="background:#111;color:#b86bff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #b86bff;">Bootstrap</span>
+</p>
+
+## ⚙️ Backend
+<p>
+  <span style="background:#111;color:#00FF88;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00FF88;">Node.js</span>
+  <span style="background:#111;color:#00E5FF;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E5FF;">Express.js</span>
+  <span style="background:#111;color:#ff6b6b;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #ff6b6b;">REST APIs</span>
+  <span style="background:#111;color:#9b6cff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #9b6cff;">JWT Auth</span>
+  <span style="background:#111;color:#FF8F39;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FF8F39;">Laravel</span>
+</p>
+
+## 🗄️ Databases
+<p>
+  <span style="background:#111;color:#00FF88;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00FF88;">MongoDB</span>
+  <span style="background:#111;color:#00E5FF;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E5FF;">Mongoose</span>
+  <span style="background:#111;color:#FFD700;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FFD700;">MySQL</span>
+  <span style="background:#111;color:#7BAAF7;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #7BAAF7;">PostgreSQL</span>
+</p>
+
+## ☁️ Cloud & DevOps
+<p>
+  <span style="background:#111;color:#FF9900;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FF9900;">AWS EC2</span>
+  <span style="background:#111;color:#4CAF50;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #4CAF50;">AWS S3</span>
+  <span style="background:#111;color:#00E676;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E676;">Nginx</span>
+  <span style="background:#111;color:#FF5722;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FF5722;">Linux Ubuntu</span>
+  <span style="background:#111;color:#9b6cff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #9b6cff;">PM2</span>
 </p>
 
 ---
 
-# 📊 **GitHub Pulse**
+# 🔥 Featured Projects (Dark Mode)
+
+### 🎯 **DevTinder – Developer Networking Platform**
+✔ 18% faster backend (MongoDB indexing)  
+✔ Secure cookies + Nginx reverse proxy  
+✔ Microservice-style architecture  
+
+---
+
+### 🏥 **Prescripto – Doctor Appointment System**
+✔ Slot-locking (avoids double booking)  
+✔ 3-role system (User / Doctor / Admin)  
+✔ Cloud image storage  
+
+---
+
+### 🍔 **FoodApp – React + Redux Toolkit**
+✔ Swiggy-style UI  
+✔ Lazy loading + Shimmer  
+✔ 85% test coverage  
+🔗 https://demo-day1.netlify.app  
+
+---
+
+# ⚡ GitHub Stats (Night Mode)
 
 <div align="center">
 
-<img height="150" src="https://koushik-github-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://koushik-github-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" />
 
-<img height="150" src="https://koushik-github-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" />
+<img height="160" src="https://koushik-github-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🌐 **Let’s Connect**
+# 🌐 Connect With Me  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushikbajpayee07/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushikbajpayee06)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbajpayee06@gmail.com)
+<a href="https://www.linkedin.com/in/koushikbajpayee07/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+
+<a href="https://github.com/koushikbajpayee06">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:kbajpayee06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3D3D"/>
+</a>
 
 </div>
 
@@ -107,7 +117,6 @@ A full-stack app for making dev connections.
 
 <div align="center">
 
-### ⭐ *“Build. Break. Fix. Repeat.”*  
-### *This is how developers grow.*
+### 🖤 *“Dark mode isn’t just a theme… it’s a lifestyle.”*
 
 </div>
