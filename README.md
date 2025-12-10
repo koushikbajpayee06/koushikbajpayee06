@@ -1,122 +1,74 @@
+# 🛠️ Tech Stack (Ultra Highlighted • Neon Glow)
+
 <div align="center">
 
-<h1 style="color:#00E5FF;">👋 Hey, I'm <strong>Koushik Bajpayee</strong></h1>
-
-<h3 style="color:#9AEFFF;">MERN Stack Developer • React & Next.js • Backend Engineer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00E5FF&center=true&width=520&lines=MERN+Stack+Developer;React+%7C+Next.js+Enthusiast;Node.js+%7C+Express+Backend;MongoDB+%7C+AWS+Learner" />
-
-</div>
-
----
-
-# 🧩 About Me  
-I love building **fast**, **scalable**, and **dark-themed** web apps 😎  
-Backend + System Design + Cloud = My playground.
-
-- 🔥 Currently learning **AWS + DevOps + System Design**  
-- ⚡ Daily habit: *Write code. Fix bugs. Ship features.*  
-- 🖤 Dark mode lover  
-
----
-
-# 🛠️ Tech Stack (Black Theme Highlighted Tags)
-
-## 🎨 Frontend
+## 🎨 Frontend  
 <p>
-  <span style="background:#111;color:#00E5FF;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E5FF;">React</span>
-  <span style="background:#111;color:#9b6cff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #9b6cff;">Next.js</span>
-  <span style="background:#111;color:#00FF88;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00FF88;">Redux Toolkit</span>
-  <span style="background:#111;color:#0dcaf0;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #0dcaf0;">Tailwind CSS</span>
-  <span style="background:#111;color:#b86bff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #b86bff;">Bootstrap</span>
-</p>
-
-## ⚙️ Backend
-<p>
-  <span style="background:#111;color:#00FF88;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00FF88;">Node.js</span>
-  <span style="background:#111;color:#00E5FF;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E5FF;">Express.js</span>
-  <span style="background:#111;color:#ff6b6b;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #ff6b6b;">REST APIs</span>
-  <span style="background:#111;color:#9b6cff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #9b6cff;">JWT Auth</span>
-  <span style="background:#111;color:#FF8F39;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FF8F39;">Laravel</span>
-</p>
-
-## 🗄️ Databases
-<p>
-  <span style="background:#111;color:#00FF88;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00FF88;">MongoDB</span>
-  <span style="background:#111;color:#00E5FF;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E5FF;">Mongoose</span>
-  <span style="background:#111;color:#FFD700;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FFD700;">MySQL</span>
-  <span style="background:#111;color:#7BAAF7;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #7BAAF7;">PostgreSQL</span>
-</p>
-
-## ☁️ Cloud & DevOps
-<p>
-  <span style="background:#111;color:#FF9900;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FF9900;">AWS EC2</span>
-  <span style="background:#111;color:#4CAF50;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #4CAF50;">AWS S3</span>
-  <span style="background:#111;color:#00E676;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #00E676;">Nginx</span>
-  <span style="background:#111;color:#FF5722;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #FF5722;">Linux Ubuntu</span>
-  <span style="background:#111;color:#9b6cff;padding:6px 12px;border-radius:20px;margin:4px;border:1px solid #9b6cff;">PM2</span>
+  <span style="background:#000;color:#00E5FF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00E5FF;font-weight:bold;box-shadow:0 0 12px #00E5FF;">React.js</span>
+  
+  <span style="background:#000;color:#9A6BFF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #9A6BFF;font-weight:bold;box-shadow:0 0 12px #9A6BFF;">Next.js</span>
+  
+  <span style="background:#000;color:#00FF7F;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00FF7F;font-weight:bold;box-shadow:0 0 12px #00FF7F;">Redux Toolkit</span>
+  
+  <span style="background:#000;color:#00D9FF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00D9FF;font-weight:bold;box-shadow:0 0 12px #00D9FF;">Tailwind CSS</span>
+  
+  <span style="background:#000;color:#D28CFF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #D28CFF;font-weight:bold;box-shadow:0 0 12px #D28CFF;">Bootstrap</span>
 </p>
 
 ---
 
-# 🔥 Featured Projects (Dark Mode)
+## ⚙️ Backend  
+<p>
+  <span style="background:#000;color:#00FF88;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00FF88;font-weight:bold;box-shadow:0 0 12px #00FF88;">Node.js</span>
+  
+  <span style="background:#000;color:#00E5FF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00E5FF;font-weight:bold;box-shadow:0 0 12px #00E5FF;">Express.js</span>
+  
+  <span style="background:#000;color:#FF5F61;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FF5F61;font-weight:bold;box-shadow:0 0 12px #FF5F61;">REST APIs</span>
 
-### 🎯 **DevTinder – Developer Networking Platform**
-✔ 18% faster backend (MongoDB indexing)  
-✔ Secure cookies + Nginx reverse proxy  
-✔ Microservice-style architecture  
+  <span style="background:#000;color:#B37CFF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #B37CFF;font-weight:bold;box-shadow:0 0 12px #B37CFF;">JWT Auth</span>
 
----
-
-### 🏥 **Prescripto – Doctor Appointment System**
-✔ Slot-locking (avoids double booking)  
-✔ 3-role system (User / Doctor / Admin)  
-✔ Cloud image storage  
-
----
-
-### 🍔 **FoodApp – React + Redux Toolkit**
-✔ Swiggy-style UI  
-✔ Lazy loading + Shimmer  
-✔ 85% test coverage  
-🔗 https://demo-day1.netlify.app  
+  <span style="background:#000;color:#FF8B3D;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FF8B3D;font-weight:bold;box-shadow:0 0 12px #FF8B3D;">Laravel</span>
+</p>
 
 ---
 
-# ⚡ GitHub Stats (Night Mode)
+## 🗄️ Databases  
+<p>
+  <span style="background:#000;color:#00FFAA;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00FFAA;font-weight:bold;box-shadow:0 0 12px #00FFAA;">MongoDB</span>
 
-<div align="center">
+  <span style="background:#000;color:#00E0FF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00E0FF;font-weight:bold;box-shadow:0 0 12px #00E0FF;">Mongoose</span>
 
-<img height="160" src="https://koushik-github-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" />
+  <span style="background:#000;color:#FFD700;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FFD700;font-weight:bold;box-shadow:0 0 12px #FFD700;">MySQL</span>
 
-<img height="160" src="https://koushik-github-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-# 🌐 Connect With Me  
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/koushikbajpayee07/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="https://github.com/koushikbajpayee06">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:kbajpayee06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3D3D"/>
-</a>
-
-</div>
+  <span style="background:#000;color:#7BAAFF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #7BAAFF;font-weight:bold;box-shadow:0 0 12px #7BAAFF;">PostgreSQL</span>
+</p>
 
 ---
 
-<div align="center">
+## ☁️ Cloud & DevOps  
+<p>
+  <span style="background:#000;color:#FF9900;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FF9900;font-weight:bold;box-shadow:0 0 12px #FF9900;">AWS EC2</span>
 
-### 🖤 *“Dark mode isn’t just a theme… it’s a lifestyle.”*
+  <span style="background:#000;color:#57D66D;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #57D66D;font-weight:bold;box-shadow:0 0 12px #57D66D;">AWS S3</span>
+
+  <span style="background:#000;color:#00FF77;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00FF77;font-weight:bold;box-shadow:0 0 12px #00FF77;">Nginx</span>
+
+  <span style="background:#000;color:#FF5722;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FF5722;font-weight:bold;box-shadow:0 0 12px #FF5722;">Linux Ubuntu</span>
+
+  <span style="background:#000;color:#A675FF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #A675FF;font-weight:bold;box-shadow:0 0 12px #A675FF;">PM2</span>
+</p>
+
+---
+
+## 🧰 Tools  
+<p>
+  <span style="background:#000;color:#FF5733;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FF5733;font-weight:bold;box-shadow:0 0 12px #FF5733;">Git</span>
+
+  <span style="background:#000;color:#FFFFFF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FFFFFF;font-weight:bold;box-shadow:0 0 12px #FFFFFF;">GitHub</span>
+
+  <span style="background:#000;color:#FF6C37;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #FF6C37;font-weight:bold;box-shadow:0 0 12px #FF6C37;">Postman</span>
+
+  <span style="background:#000;color:#00A2FF;padding:10px 18px;border-radius:25px;margin:6px;border:2px solid #00A2FF;font-weight:bold;box-shadow:0 0 12px #00A2FF;">VS Code</span>
+</p>
 
 </div>
