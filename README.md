@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./ChatGPT Image Dec 10, 2025, 10_59_24 PM.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 # 👋 Hey, I'm <span style="color:#00E5FF;">Koushik Bajpayee</span>  
 ### ⚡ MERN Stack Developer • Backend Engineer • React & Next.js Enthusiast ⚡  
