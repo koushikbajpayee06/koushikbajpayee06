@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./ChatGPT Image Dec 10, 2025, 10_59_24 PM.png" width="100%" />
-</div>
+
 
 <br/>
 
