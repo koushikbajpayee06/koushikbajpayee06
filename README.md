@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Koushik Bajpayee Banner"/>
+</p>
 <div align="center">
 
 # 👋 Hey, I'm Koushik Bajpayee
