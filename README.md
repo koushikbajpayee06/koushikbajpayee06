@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=koushikbajpayee06&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/GenAI-Learner-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-00E5FF?style=for-the-badge" />
