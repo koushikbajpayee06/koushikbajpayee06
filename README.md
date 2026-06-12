@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Koushik Bajpayee
 
-### ⚡ Full Stack Developer • GenAI Learner • AI/ML Enthusiast ⚡
+### ⚡ ⚡ Building AI-Powered Applications • Exploring LLMs • Learning in Public ⚡ ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=750&size=22&pause=1200&color=00E5FF&lines=Learning+Generative+AI+%26+NLP.;Building+AI-powered+applications.;Exploring+LLMs+%7C+Transformers+%7C+RAG.;Python+%7C+ML+%7C+DL+%7C+Full+Stack+Development." />
 
