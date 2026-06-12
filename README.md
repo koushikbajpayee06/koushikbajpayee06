@@ -240,8 +240,14 @@ AI-powered document question answering system.
 
 <div align="center">
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br><br>
+
 ## 🚀 Build • Learn • Evolve
 
 ### *"The future belongs to engineers who understand both software and intelligence."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:00E5FF&height=120&section=footer"/>
 
 </div>
