@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Koushik Bajpayee Banner"/>
+  <img src="./assets/banner.png" alt="Koushik Bajpayee Banner"/>
 </p>
 <div align="center">
 
