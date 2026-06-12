@@ -1,117 +1,86 @@
+<br/>
+
 <div align="center">
 
-# 👋 Hey, I'm Koushik Bajpayee
+# 👋 Hey, I'm <span style="color:#00E5FF;">Koushik Bajpayee</span>  
+### ⚡ GenAI Developer Aspirant • NLP & AI Enthusiast • Full Stack Developer ⚡  
 
-### ⚡ Full Stack Developer • GenAI Learner • AI/ML Enthusiast ⚡
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=750&size=22&pause=1200&color=00E5FF&lines=Learning+Generative+AI+%26+NLP.;Building+AI-powered+applications.;Exploring+LLMs+%7C+Transformers+%7C+RAG.;Python+%7C+ML+%7C+DL+%7C+Full+Stack+Development." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=koushikbajpayee06&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
-<img src="https://img.shields.io/badge/GenAI-Learner-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-00E5FF?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/📚_Learning_in_Public-0D1117?style=for-the-badge&color=00E5FF" />
-
-<img src="https://img.shields.io/badge/🚀_Building_AI_Applications-0D1117?style=for-the-badge&color=8B5CF6" />
-
-<img src="https://img.shields.io/badge/🧠_Future_GenAI_Engineer-0D1117?style=for-the-badge&color=FF4D6D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=700&size=22&pause=1200&color=00E5FF&lines=Learning+Generative+AI+%26+NLP.;Building+AI-powered+applications.;Exploring+LLMs+%7C+Transformers+%7C+RAG.;Python+%7C+ML+%7C+DL+%7C+Full+Stack+Development." />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🧠 About Me  
 
-I'm a Full Stack Developer currently transitioning into the world of Generative AI.
+I’m a developer transitioning into the world of **Generative AI, NLP, Machine Learning, and Deep Learning**.  
+Currently exploring how modern AI systems work — from classical NLP techniques to Transformers, LLMs, RAG pipelines, vector embeddings, and AI agents.  
 
-I enjoy building scalable web applications while exploring NLP, Deep Learning, Transformers, LangChain, LangGraph, RAG Systems, and AI Agents.
+My goal is to become a strong **GenAI Engineer / AI Developer** who builds intelligent, scalable, real-world AI applications. 🚀
 
-My goal is to become a GenAI Engineer capable of building intelligent AI-powered applications that solve real-world problems.
-
-* 🔥 Learning NLP, Deep Learning, Transformers, LLMs & RAG
-* 💻 Building AI + Full Stack projects using Python & JavaScript
-* 🧠 Exploring the evolution from traditional ML to modern Generative AI
-* ⚡ Learning in Public
-* 🚀 Goal: Become a GenAI Engineer
-
----
-
-# 🚀 Current Learning Journey
-
-```text
-Machine Learning        ✅
-NLP Fundamentals        ✅
-Embeddings              ✅
-Deep Learning           ✅
-RNN & LSTM              🔄
-Transformers            🔄
-LangChain               🔄
-LangGraph               🔄
-RAG Systems             🔄
-AI Agents               🎯
-```
+- 🔥 Learning: NLP, Deep Learning, Transformers, LLMs, RAG, Vector Databases
+- 💻 Building AI + Full Stack projects using Python and JavaScript
+- 🧠 Exploring the evolution from traditional ML to modern Generative AI
+- ⚡ Consistently learning and building in public
+- 🚀 Goal: Become a GenAI Developer
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🧠 AI / ML / NLP
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=6" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NLP-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-FF4D6D?style=for-the-badge" />
-
-</div>
+## 🧠 AI / ML / NLP  
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000&labelColor=000&color=FFD43B"/>  
+<img src="https://img.shields.io/badge/NumPy-4DABF7?style=for-the-badge&logo=numpy&logoColor=fff&labelColor=000&color=4DABF7"/>  
+<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=fff&labelColor=000&color=222"/>  
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff&labelColor=000&color=F7931E"/>  
+<img src="https://img.shields.io/badge/NLTK-00E5FF?style=for-the-badge&logo=python&logoColor=fff&labelColor=000&color=00E5FF"/>  
+<img src="https://img.shields.io/badge/Deep_Learning-FF4D6D?style=for-the-badge&logo=tensorflow&logoColor=fff&labelColor=000&color=FF4D6D"/>  
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=fff&labelColor=000&color=8B5CF6"/>  
+<img src="https://img.shields.io/badge/Transformers-00FFB3?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=000&color=00FFB3"/>  
+<img src="https://img.shields.io/badge/LLMs-FFB703?style=for-the-badge&logo=openai&logoColor=000&labelColor=000&color=FFB703"/>  
+<img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge&logo=databricks&logoColor=fff&labelColor=000&color=00C2FF"/>  
 
 ---
 
-## 💻 Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,redux,vite&perline=6" />
-
-</div>
+## 🎨 Frontend  
+<img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=000&labelColor=000&color=00E5FF"/>  
+<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=fff&labelColor=000&color=111"/>  
+<img src="https://img.shields.io/badge/Redux_Toolkit-9A6BFF?style=for-the-badge&logo=redux&logoColor=fff&labelColor=000&color=9A6BFF"/>  
+<img src="https://img.shields.io/badge/TailwindCSS-00CFFF?style=for-the-badge&logo=tailwindcss&logoColor=fff&labelColor=000&color=00CFFF"/>  
 
 ---
 
-## ⚙️ Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&perline=6" />
-
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=6" />
-
-</div>
+## ⚙️ Backend  
+<img src="https://img.shields.io/badge/Node.js-00FF88?style=for-the-badge&logo=node.js&logoColor=000&labelColor=000&color=00FF88"/>  
+<img src="https://img.shields.io/badge/Express.js-00E5FF?style=for-the-badge&logo=express&logoColor=fff&labelColor=000&color=00E5FF"/>  
+<img src="https://img.shields.io/badge/Laravel-FF8B3D?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=000&color=FF8B3D"/>  
+<img src="https://img.shields.io/badge/REST_APIs-FF5F61?style=for-the-badge&logo=api&logoColor=fff&labelColor=000&color=FF5F61"/>  
+<img src="https://img.shields.io/badge/JWT_Auth-B37CFF?style=for-the-badge&logo=jsonwebtokens&logoColor=fff&labelColor=000&color=B37CFF"/>  
 
 ---
 
-## ☁️ Cloud & DevOps
+## 🗄️ Databases  
+<img src="https://img.shields.io/badge/MongoDB-00FFAA?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=000&color=00FFAA"/>  
+<img src="https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=000&labelColor=000&color=FFD700"/>  
+<img src="https://img.shields.io/badge/PostgreSQL-7BAAFF?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=000&color=7BAAFF"/>  
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=aws,linux,nginx,git,github,postman,vscode&perline=7" />
+## ☁️ Cloud & DevOps  
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000&labelColor=000&color=FF9900"/>  
+<img src="https://img.shields.io/badge/Linux_Ubuntu-FF5722?style=for-the-badge&logo=ubuntu&logoColor=fff&labelColor=000&color=FF5722"/>  
+<img src="https://img.shields.io/badge/Nginx-00FF77?style=for-the-badge&logo=nginx&logoColor=000&labelColor=000&color=00FF77"/>  
+<img src="https://img.shields.io/badge/PM2-A675FF?style=for-the-badge&logo=pm2&logoColor=fff&labelColor=000&color=A675FF"/>  
+
+---
+
+## 🧰 Tools  
+<img src="https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=fff&labelColor=000&color=FF5733"/>  
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000&labelColor=000&color=FFFFFF"/>  
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff&labelColor=000&color=FF6C37"/>  
+<img src="https://img.shields.io/badge/VS_Code-00A2FF?style=for-the-badge&logo=visualstudiocode&logoColor=fff&labelColor=000&color=00A2FF"/>  
 
 </div>
 
@@ -119,99 +88,56 @@ AI Agents               🎯
 
 # 🚀 Featured Projects
 
-## 🤝 DevTinder – Developer Networking Platform
+## 🎯 DevTinder – Developer Networking Platform  
+A MERN-based platform where developers connect, match, collaborate & grow.  
 
-A MERN-based platform where developers connect, collaborate and grow.
-
-### Features
-
-* Authentication & Authorization
-* Connection Requests
-* Real-time Chat
-* Secure REST APIs
-* AWS Deployment
-
-**Tech:** React • Node.js • Express.js • MongoDB
+- ⚡ Microservice-style architecture  
+- 🚀 Optimized backend using MongoDB indexing  
+- 🔐 Secure cookie-auth + refresh token  
+- 🔄 Complete connection management system  
+- 🌐 Deployed on EC2 + Nginx reverse proxy  
 
 ---
 
-## 🏥 Prescripto – Doctor Appointment System
+## 🏥 Prescripto – Doctor Appointment System  
+A production-ready healthcare booking system supporting multiple user roles.  
 
-Production-ready healthcare booking platform.
-
-### Features
-
-* Appointment Scheduling
-* Doctor Management
-* JWT Authentication
-* Cloudinary Integration
-
-**Tech:** React • Node.js • MongoDB
+- 🕒 Real-time slot locking  
+- 👨‍⚕️ Doctor verification system  
+- 🔍 Smart filtering system  
+- ☁️ Cloudinary image upload  
+- 🔐 JWT authentication  
 
 ---
 
-## 🍔 FoodApp – React + Redux Toolkit
+## 🍔 FoodApp – React + Redux Toolkit  
+Swiggy-style food ordering UI with optimized frontend architecture.  
 
-Modern food ordering application.
-
-### Features
-
-* Search & Filter
-* Redux Toolkit
-* Responsive UI
-* Performance Optimization
-
-**Tech:** React • Redux Toolkit
+- ⚡ Shimmer UI + lazy loading  
+- 🧠 Redux Toolkit optimized store  
+- 🔎 Search, filter, and sorting features  
+- ✔ Responsive modern UI  
 
 ---
 
-## 🤖 RAG PDF Chatbot
-
-AI-powered document question answering system.
-
-### Features
-
-* PDF Processing
-* Text Chunking
-* Embedding Generation
-* FAISS Vector Search
-* LLM-powered Answers
-
-**Tech:** Python • LangChain • FAISS
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=koushikbajpayee06&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://koushik-github-stats.vercel.app/api?username=koushikbajpayee06&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://koushik-github-stats.vercel.app/api/top-langs/?username=koushikbajpayee06&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me  
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/koushikbajpayee07/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/koushikbajpayee06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:kbajpayee06@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/koushikbajpayee07/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/koushikbajpayee06)  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=FF4444)](mailto:kbajpayee06@gmail.com)
 
 </div>
 
@@ -219,9 +145,8 @@ AI-powered document question answering system.
 
 <div align="center">
 
-## 🚀 Build • Learn • Evolve
+### 🖤 *“Build. Learn. Evolve.”*  
+### ⚡ *“The future belongs to AI engineers who understand both software and intelligence.”*
 
-### *"The future belongs to engineers who understand both software and intelligence."*
-
-</div>
-
+</div> eta amr readme ache
+add thise effects 
