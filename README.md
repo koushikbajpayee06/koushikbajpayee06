@@ -236,8 +236,6 @@ AI-powered document question answering system.
 </div>
 
 ---
-
-
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
