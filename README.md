@@ -126,6 +126,27 @@ A full-stack RAG application for uploading documents and retrieving context-awar
 
 ---
 
+## 📚 BookBazaar — Full-Stack Online Bookstore
+
+A full-stack bookstore with an API-backed catalogue, role-based book management, and a persistent shopping cart.
+
+- React book listing and details integrated with FastAPI
+- Combined title/author search, category and rating filters
+- Backend pagination and input validation
+- JWT authentication with customer, author, and admin roles
+- Book CRUD with author ownership checks for updates and deletion
+- Frontend registration connected to the backend
+- Redux Toolkit cart with quantities, totals, and localStorage persistence
+- Loading, error, empty-result, and missing-cover states
+
+**In progress:** Frontend login/logout, database-backed carts, and order workflows.
+
+**Tech:** React • Tailwind CSS • Redux Toolkit • FastAPI • SQLAlchemy • Pydantic v2 • SQLite
+
+[View Source Code](https://github.com/koushikbajpayee06/BookBazaar)
+
+---
+
 ## 🧠 Stateful LangGraph Chatbot
 
 A conversational AI application with streaming responses, persistent memory, and resumable chat sessions.
@@ -178,6 +199,7 @@ A responsive food-ordering application built while strengthening React fundament
 
 **Tech:** React • React Router • JavaScript • CSS
 
+---
 ---
 
 # 📊 GitHub Analytics
